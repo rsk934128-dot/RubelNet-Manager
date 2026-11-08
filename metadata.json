@@ -1,0 +1,6 @@
+{
+  "name": "RubelNet Manager",
+  "description": "Firestore Query Optimizer & Inactive User Management Dashboard for RubelNet Firebase workflows",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
